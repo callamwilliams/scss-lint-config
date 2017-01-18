@@ -1,2 +1,3 @@
-SCSS-LINT-CONFIG
-propeller standards
+##SCSS-LINT-CONFIG
+
+###propeller standards
